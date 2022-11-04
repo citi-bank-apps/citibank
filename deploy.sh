@@ -1,2 +1,3 @@
 this file hAS DEPLOYMENT activity
-updating the deploy file 
+file updated in dev branch
+3rd line added
